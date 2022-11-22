@@ -97,8 +97,8 @@ Library: lib_burst_generated
 --compilation-defines=GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
 --compilation-defines=ENABLE_WEBSOCKET_HOST
 --compilation-defines=ENABLE_MONO
---compilation-defines=NET_STANDARD_2_0
---compilation-defines=NET_STANDARD
+--compilation-defines=NET_4_6
+--compilation-defines=NET_UNITY_4_8
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -142,7 +142,9 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
+--root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.Recorder.dll
 --root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+--root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.Recorder.Base.dll
 --assembly-folder=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -247,8 +249,8 @@ Library: lib_burst_generated
 --compilation-defines=GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
 --compilation-defines=ENABLE_WEBSOCKET_HOST
 --compilation-defines=ENABLE_MONO
---compilation-defines=NET_STANDARD_2_0
---compilation-defines=NET_STANDARD
+--compilation-defines=NET_4_6
+--compilation-defines=NET_UNITY_4_8
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -292,7 +294,9 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
 --root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
+--root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.Recorder.dll
 --root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+--root-assembly=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\Unity.Recorder.Base.dll
 --assembly-folder=C:\Users\abood\Desktop\Projects\RoboKeeper - Al Saygah\Unity Project\RoboKeeper\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
